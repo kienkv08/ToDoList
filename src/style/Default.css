@@ -1,0 +1,30 @@
+.button {
+  margin-top: 20px;
+  margin-left: 75%;
+}
+
+.button-create {
+  height: 35px;
+  border-radius: 8px;
+  border-width: 2px;
+  border-style: solid;
+  width: 190px;
+}
+.create {
+  font-family: "Gill Sans", sans-serif;
+  font-size: 19px;
+  padding-top: 0.8em;
+  color: black;
+}
+.day {
+  font-family: "Gill Sans", sans-serif;
+}
+
+.dot {
+  margin: 35px;
+}
+
+.plus-circle {
+  margin-left: 140px;
+  font-size: 500%;
+}

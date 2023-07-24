@@ -1,0 +1,253 @@
+{
+  "account": [
+    {
+      "id": 1,
+      "username": "crddtest",
+      "password": "$2a$10$764cqV5t5YbevSc1yghKlOwzRQU3QabDsJ6V6uZcJ0cy4YCinYbiW",
+      "isAdmin": true,
+      "isActive": true
+    },
+    {
+      "id": 2,
+      "username": "chess",
+      "password": "$2a$10$QmgjYxGsOA.bBSR109cxCOHyr4iukU1VZi9ixpRIuISyoZvN3o662",
+      "isAdmin": false,
+      "isActive": true
+    },
+    {
+      "id": 3,
+      "username": "vuacovn",
+      "password": "$2a$10$Dnm51iuzk0CrYv41YgKWPOccF0TeUFpxhw2x3BOoULJBchEMV.qQK",
+      "isAdmin": false,
+      "isActive": true
+    },
+    {
+      "id": 4,
+      "username": "vuamom",
+      "password": "$2a$10$C7bROnaEgSP1888UcI4m7.TrkoOcPg9tNBqGsQdi8WWE3O1KjFo22",
+      "isAdmin": false,
+      "isActive": false
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "name": "Kieu Viet Kien",
+      "dob": "21/06/2002",
+      "gender": "false",
+      "city": "Viet Nam",
+      "email": "kienkvhe@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "",
+      "dob": "",
+      "gender": true,
+      "city": "",
+      "email": ""
+    },
+    {
+      "id": 3,
+      "name": "",
+      "dob": "",
+      "gender": true,
+      "city": "",
+      "email": ""
+    },
+    {
+      "id": 4,
+      "name": "",
+      "dob": "",
+      "gender": true,
+      "city": "",
+      "email": ""
+    }
+  ],
+  "day": [
+    {
+      "id": 1,
+      "todolistID": 1,
+      "day": "15/7/2023"
+    }
+  ],
+  "to_do_list": [
+    {
+      "id": 1,
+      "userId": 1,
+      "title": "Beautiful day",
+      "date": "2023-07-05",
+      "summary": "Beautiful day without you",
+      "isDone": true
+    },
+    {
+      "title": "cvxcvxvxvxcvx",
+      "summary": "xvcxcvxcvx",
+      "date": "2023-07-27",
+      "id": 2,
+      "userId": 1
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "title": "sdffsdf",
+      "summary": "sdfsdfsd",
+      "date": "2023-07-21",
+      "isDone": false
+    }
+  ],
+  "to_do_list_detail": [
+    {
+      "id": 1,
+      "toDoListId": 1,
+      "name": "Breakfast",
+      "timeAt": "07:30",
+      "timeTo": "08:30",
+      "description": "Chang lam gi ca",
+      "isDone": true
+    },
+    {
+      "id": 2,
+      "toDoListId": 1,
+      "name": "Lunch",
+      "timeAt": "11:30",
+      "timeTo": "12:30",
+      "description": "Chang lam gi ca",
+      "isDone": false
+    },
+    {
+      "toDoListId": "1",
+      "name": "New Detail",
+      "timeAt": "09:00",
+      "timeTo": "10:00",
+      "description": "New detail description",
+      "isDone": false,
+      "id": 3
+    },
+    {
+      "toDoListId": "1",
+      "name": "New Detail",
+      "timeAt": "09:00",
+      "timeTo": "10:00",
+      "description": "New detail description",
+      "isDone": false,
+      "id": 4
+    },
+    {
+      "toDoListId": "1",
+      "name": "New Detail",
+      "timeAt": "09:00",
+      "timeTo": "10:00",
+      "description": "New detail description",
+      "isDone": false,
+      "id": 5
+    },
+    {
+      "toDoListId": "1",
+      "name": "New Detail",
+      "timeAt": "09:00",
+      "timeTo": "10:00",
+      "description": "New detail description",
+      "isDone": false,
+      "id": 7
+    },
+    {
+      "toDoListId": "1",
+      "name": "New Detail",
+      "timeAt": "09:00",
+      "timeTo": "10:00",
+      "description": "New detail description",
+      "isDone": false,
+      "id": 8
+    },
+    {
+      "toDoListId": "2",
+      "name": "New Detail",
+      "timeAt": "09:00",
+      "timeTo": "10:00",
+      "description": "New detail description",
+      "isDone": false,
+      "id": 9
+    },
+    {
+      "toDoListId": "2",
+      "name": "New Detail",
+      "timeAt": "09:00",
+      "timeTo": "10:00",
+      "description": "New detail description",
+      "isDone": false,
+      "id": 10
+    },
+    {
+      "toDoListId": "2",
+      "name": "New Detail",
+      "timeAt": "09:00",
+      "timeTo": "10:00",
+      "description": "New detail description",
+      "isDone": false,
+      "id": 11
+    },
+    {
+      "toDoListId": "2",
+      "name": "New Detail",
+      "timeAt": "09:00",
+      "timeTo": "10:00",
+      "description": "New detail description",
+      "isDone": false,
+      "id": 12
+    },
+    {
+      "toDoListId": "3",
+      "name": "Lam gi di",
+      "timeAt": "09:00",
+      "timeTo": "10:00",
+      "description": "New detail description",
+      "isDone": false,
+      "id": 13
+    },
+    {
+      "toDoListId": "3",
+      "name": "New Detail",
+      "timeAt": "09:00",
+      "timeTo": "10:00",
+      "description": "New detail description",
+      "isDone": false,
+      "id": 14
+    },
+    {
+      "toDoListId": "3",
+      "name": "New Detail",
+      "timeAt": "09:00",
+      "timeTo": "10:00",
+      "description": "New detail description",
+      "isDone": false,
+      "id": 15
+    },
+    {
+      "toDoListId": "3",
+      "name": "New Detail",
+      "timeAt": "09:00",
+      "timeTo": "10:00",
+      "description": "New detail description",
+      "isDone": false,
+      "id": 16
+    },
+    {
+      "toDoListId": "3",
+      "name": "New Detail",
+      "timeAt": "09:00",
+      "timeTo": "10:00",
+      "description": "New detail description",
+      "isDone": false,
+      "id": 17
+    },
+    {
+      "toDoListId": "3",
+      "name": "New Detail",
+      "timeAt": "09:00",
+      "timeTo": "10:00",
+      "description": "New detail description",
+      "isDone": false,
+      "id": 18
+    }
+  ]
+}
